@@ -61,3 +61,5 @@ for row in data:
 
 # 打印求和结果
 print("每一行中的第一列和倒数第二列乘积的求和：", sum_product)
+
+
